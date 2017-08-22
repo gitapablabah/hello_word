@@ -1,2 +1,2 @@
-# hello_word
+# hello_world
 TT test repo
